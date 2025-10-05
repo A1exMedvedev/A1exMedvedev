@@ -1,29 +1,37 @@
-# [Твой никнейм] / README.md
-
-## HI, there!
+## HI, there! 👋
 
 ### Personal details
-- name: Alex Medvedev
-- age: 19 
-- sex: male 
-- country: Russia
+- 🔭 **name:** Alex Medvedev  
+- 🎂 **age:** 19 
+- 🚻 **sex:** Male 
+- 🌍 **country:** Russia 
 
 ### Technologies
-- **Get**  
-  - GitHub  
-  - C++
+<div align="left">
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub Badge">
+  <img src="https://img.shields.io/badge/[Технология]-[Цвет]?logo=[лого]&logoColor=white" alt="[Технология] Badge">
+  <img src="https://img.shields.io/badge/[Технология]-[Цвет]?logo=[лого]&logoColor=white" alt="[Технология] Badge">
+</div>
 
 ---
 
 ### Github stats
-- **Total Stars Earned:** [количество]  
-- **Total Commits (last year):** [количество]  
-- **Total PRs:** [количество]  
-- **Total Issues:** [количество]  
-- **Contributed to (last year):** [количество]  
+<div align="center">
+  
+![Total Stars](https://img.shields.io/badge/Total_Stars-0-blue)
+![Total Commits](https://img.shields.io/badge/Total_Commits_(last_year)-90-green)
+![Total PRs](https://img.shields.io/badge/Total_PRs-2-orange)
+![Total Issues](https://img.shields.io/badge/Total_Issues-4-red)
+![Contributed to](https://img.shields.io/badge/Contributed_to_(last_year)-0-lightgrey)
+
+</div>
 
 ---
 
 ### Contact me
-- **Telegram**  
-  **@BFSmonster**
+<div align="left">
+
+[![Telegram](https://img.shields.io/badge/Telegram-@твойлогин-blue?logo=telegram)](https://t.me/@BFSmonster)
+[![Discord](https://img.shields.io/badge/Discord-твойлогин-7289DA?logo=discord)](https://discord.com/users/твойлогин)
+
+</div>
