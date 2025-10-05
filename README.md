@@ -31,7 +31,6 @@
 ### Contact me
 <div align="left">
 
-[![Telegram](https://img.shields.io/badge/Telegram-@твойлогин-blue?logo=telegram)](https://t.me/@BFSmonster)
-[![Discord](https://img.shields.io/badge/Discord-твойлогин-7289DA?logo=discord)](https://discord.com/users/твойлогин)
+[![Telegram](https://img.shields.io/badge/Telegram-@BFSmonster-blue?logo=telegram)](https://t.me/@BFSmonster)
 
 </div>
