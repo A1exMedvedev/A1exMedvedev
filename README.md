@@ -13,6 +13,9 @@
 ![MD](https://img.shields.io/badge/-Markdown-000000?style=flat&logo=markdown&logoColor=white)
 <br>
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+<img src="https://img.shields.io/badge/SystemVerilog-FFB500?style=flat"/>
+<img src="https://img.shields.io/badge/Logisim%20Evolution-008000?style=flat"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
 
 
 ### *Github stats*
