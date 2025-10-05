@@ -1,16 +1,10 @@
 ## HI, there! 👋
 
-<div align="left">
-
-  ### *Personal details*
-  - 🔭 **name:** Alex Medvedev  
-  - 🎂 **age:** 19 
-  - 🚻 **sex:** Male 
-  - 🌍 **country:** Russia 
-  
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=A1exMedvedev&theme=dark"><img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A1exMedvedev&layout=compact&hide_border=true&theme=dark"></a>
-
-</div>
+ ### *Personal details*
+ - 🔭 **name:** Alex Medvedev  
+ - 🎂 **age:** 19 
+ - 🚻 **sex:** Male 
+ - 🌍 **country:** Russia 
 
 ### *Technologies*
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
@@ -23,7 +17,10 @@
 
 ### *Github stats*
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=A1exMedvedev&show_icons=true&hide_title=true&count_private=true&theme=transparent)
+<div id="stats" align="center">
+  <a href="https://github-readme-stats.vercel.app/api?username=A1exMedvedev&show_icons=true&theme=dark"><img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=A1exMedvedev&hide_border=true&show_icons=true&theme=dark"></a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=A1exMedvedev&theme=dark"><img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A1exMedvedev&layout=compact&hide_border=true&theme=dark"></a>
+</div>
 
 ### *Contact me*
 <a href="https://t.me/BFSmonster">![TG](https://img.shields.io/badge/-BFSmonster-26A5E4?style=flat&logo=telegram&logoColor=white)</a>
