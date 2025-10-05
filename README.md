@@ -17,9 +17,16 @@
 
 ### *Github stats*
 
-<div id="stats" align="center">
-  <a href="https://github-readme-stats.vercel.app/api?username=A1exMedvedev&show_icons=true&theme=dark"><img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=A1exMedvedev&hide_border=true&show_icons=true&theme=dark"></a>
-  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=A1exMedvedev&theme=dark"><img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A1exMedvedev&layout=compact&hide_border=true&theme=dark"></a>
+<div align="center">
+
+<a href="https://github-readme-stats.vercel.app/api?username=AlexMedvedev&show_icons=true&theme=dark">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=AlexMedvedev&hide_border=true&show_icons=true&theme=dark" alt="Stats">
+</a>
+
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMedvedev&layout=compact&theme=dark">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexMedvedev&layout=compact&hide_border=true&theme=dark&langs_count=8" alt="Top Languages">
+</a>
+
 </div>
 
 ### *Contact me*
