@@ -1,17 +1,16 @@
 ## HI, there! 👋
 
 <div align="right">
+
+  ### *Personal details*
+  - 🔭 **name:** Alex Medvedev  
+  - 🎂 **age:** 19 
+  - 🚻 **sex:** Male 
+  - 🌍 **country:** Russia 
   
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=A1exMedvedev&theme=dark"><img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A1exMedvedev&layout=compact&hide_border=true&theme=dark"></a>
 
-
 </div>
-
-### *Personal details*
-- 🔭 **name:** Alex Medvedev  
-- 🎂 **age:** 19 
-- 🚻 **sex:** Male 
-- 🌍 **country:** Russia 
 
 ### *Technologies*
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
