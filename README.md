@@ -1,6 +1,6 @@
 ## HI, there! 👋
 
-<div align="right">
+<div align="left">
 
   ### *Personal details*
   - 🔭 **name:** Alex Medvedev  
