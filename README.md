@@ -9,8 +9,8 @@
 ### Technologies
 <div align="left">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub Badge">
-  <img src="https://img.shields.io/badge/[Технология]-[Цвет]?logo=[лого]&logoColor=white" alt="[Технология] Badge">
-  <img src="https://img.shields.io/badge/[Технология]-[Цвет]?logo=[лого]&logoColor=white" alt="[Технология] Badge">
+  <img src="https://img.shields.io/badge/[Git]-[Цвет]?logo=[лого]&logoColor=white" alt="Git Badge">
+  <img src="https://img.shields.io/badge/[C++]-[Цвет]?logo=[лого]&logoColor=white" alt="C++ Badge">
 </div>
 
 ---
