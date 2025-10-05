@@ -1,6 +1,11 @@
 ## HI, there! 👋
 
-<img src="assets/gopher.png" align="right" style="display: flex; width: 300px; max-width: 40%; height: auto;">
+<div align="right">
+  
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=A1exMedvedev&theme=dark"><img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A1exMedvedev&layout=compact&hide_border=true&theme=dark"></a>
+
+
+</div>
 
 ### *Personal details*
 - 🔭 **name:** Alex Medvedev  
