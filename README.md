@@ -1,16 +1,29 @@
-## Hi there 👋
+# [Твой никнейм] / README.md
 
-<!--
-**A1exMedvedev/A1exMedvedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## HI, there!
 
-Here are some ideas to get you started:
+### Personal details
+- name: Alex Medvedev
+- age: 19 
+- sex: male 
+- country: Russia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies
+- **Get**  
+  - GitHub  
+  - C++
+
+---
+
+### Github stats
+- **Total Stars Earned:** [количество]  
+- **Total Commits (last year):** [количество]  
+- **Total PRs:** [количество]  
+- **Total Issues:** [количество]  
+- **Contributed to (last year):** [количество]  
+
+---
+
+### Contact me
+- **Telegram**  
+  **@BFSmonster**
